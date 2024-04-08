@@ -1,3 +1,6 @@
+# Task 1: ATM Interface
+# (c) Kaushik Goswami 2024 onwards
+
 class Account:
     def __init__(self, user_id, pin, balance=0):
         self.user_id = user_id
